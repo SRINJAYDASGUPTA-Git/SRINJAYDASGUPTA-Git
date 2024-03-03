@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinjaydasgupta-git" alt="srinjaydasgupta-git" /></a> </p>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Enigma: Figma Clone**
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-srinjaydasgupta-git.vercel.app/](https://portfolio-srinjaydasgupta-git.vercel.app/)
 
